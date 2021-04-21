@@ -1,0 +1,14 @@
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб5\Tests\Tests\obj\Debug\netcoreapp2.1\Tests.pdb
